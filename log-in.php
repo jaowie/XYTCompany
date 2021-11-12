@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="format.css"/>
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
-	<title>Login | XYT</title>
+	<title>Login | XYT company</title>
 	<style type="text/css">
 		#transactiondiv{
 
